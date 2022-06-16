@@ -1,5 +1,9 @@
-_site
+*.gem
+.bundle
 .sass-cache
-.jekyll-metadata
-.editorconfig
-*.DS_Store
+_site
+Gemfile.lock
+.DS_Store
+vendor
+.jekyll-cache
+tags
